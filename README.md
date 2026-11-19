@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**angelbhatia140-droid/angelbhatia140-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ Hey, I'm Angel Bhatia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 First-Year B.Tech CSE Core Student at Lovely Professional University.
+# 👩‍💻 About Me
+- 🌱 Currently learning Python and C++
+- 💻 Exploring Web Development
+- 🤖 Interested in Artificial Intelligence
+- 🔐 Exploring Cybersecurity and IoT
+- 📚 Learning through academic projects and coding practice
+
+ 🛠️ Skills
+- Python
+- C++
+- HTML
+- CSS
+
+ 🎯 Current Goals
+- Strengthen my programming fundamentals
+- Learn Data Structures and Algorithms
+- Build practical projects
+- Explore different areas of Computer Science
+
+## 📫 Connect With Me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/angel-bhatia-828189409)
+
+Thanks for visiting my profile!
